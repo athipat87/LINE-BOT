@@ -1,5 +1,5 @@
 <?php
-echo "G";
+echo "H";
 $Setup_Server = '188.166.106.66';
 $Setup_User = 'athipat_day';
 $Setup_Pwd = 'it!112233';
